@@ -4,6 +4,8 @@ added Bootstrap
 added Antd design 
 <br />
 added Material ui 
+<br />
+added Chakra ui
 
     npm install
     npm run dev
